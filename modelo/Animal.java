@@ -3,7 +3,7 @@ package modelo;
 public class Animal
 {
     //Atributos
-    private int peso = 0;
+    protected int peso = 0;
 
     //Metodos
     public void setPeso(int peso)
